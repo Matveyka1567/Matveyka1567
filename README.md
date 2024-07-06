@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Matveyka1567
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning writing code
-- 💞️ I’m looking to collaborate on web application, games
-- 📫 How to reach me +79038925621
-- 😄 Pronouns: тщ
-- ⚡ Fun fact: I'm from a small town
+# Study_files_INGI
 
-<!---
-Matveyka1567/Matveyka1567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Этот репозиторий нужен для хранения учебных файлов с проета "Университет 2035"
+
+---
+
+## Кто автор этого репозитория?
+
+Я - студент проекта "Код будущего", прочитать про который вы можте по [ссылке](https://inginirium-online.ru/courses)
+
+![Иконка проекта](https://inginirium-online.ru/assets/ingi_logo.png)
